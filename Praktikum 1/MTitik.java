@@ -1,4 +1,12 @@
+/*
+	MTitik.java  23/02/2023
+	Nama      : Mahardika Putra Wardhana
+	NIM       : 24060121130076
+	Deskripsi : kelas untuk MTitik
+*/
+
 class Titik {
+
 	//atribut
 	double absis;
 	double ordinat;
