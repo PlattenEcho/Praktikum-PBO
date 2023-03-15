@@ -26,7 +26,7 @@ class MTimSepakbola {
 			System.out.println("Skor sementara: " + liverpool.nama + " " + liverpool.getSkor() + " - " + manchesterUnited.getSkor() + " " + manchesterUnited.nama);
     }
 
-		// TODO: call endTandingBola()
+    // TODO: call endTandingBola()
     liverpool.endTandingBola(manchesterUnited);
 		
   }
