@@ -1,3 +1,12 @@
+/*
+	MTimSepakbola.java  15/03/2023
+	Nama      : Mahardika Putra Wardhana
+	NIM       : 24060121130076
+	Deskripsi : kelas untuk MTimSepakBola
+*/
+
+
+
 class MTimSepakbola {
   public static void main(String[] args) {
     // TODO: Make an instance called 'liverpool' -> use constructor which you have made before
