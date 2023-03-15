@@ -1,3 +1,10 @@
+/*
+	TimSepakbola.java  15/03/2023
+	Nama      : Mahardika Putra Wardhana
+	NIM       : 24060121130076
+	Deskripsi : kelas untuk TimSepakBola
+*/
+
 class TimSepakbola {
 
   // Assume there are only 2 teams using this class!
